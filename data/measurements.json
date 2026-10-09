@@ -1,0 +1,1796 @@
+{
+  "format": "Existing metric extracts; no new scientific measurements",
+  "metrics": [
+    {
+      "metric_id": "M001",
+      "case_key": "scene_36_27|Vehicle:3|0118",
+      "metric": "N",
+      "value": 1461,
+      "unit": "count",
+      "original_source_sha256": "2e40b7b6ef150a2aa0083f0ddeab216df43bd4dbaa1bdce28ac7fb0bfc5bd9b5",
+      "original_JSON_pointer": "/N"
+    },
+    {
+      "metric_id": "M002",
+      "case_key": "scene_36_27|Vehicle:3|0118",
+      "metric": "inside_full_OBB_N",
+      "value": 109,
+      "unit": "count",
+      "original_source_sha256": "2e40b7b6ef150a2aa0083f0ddeab216df43bd4dbaa1bdce28ac7fb0bfc5bd9b5",
+      "original_JSON_pointer": "/inside_full_OBB_N"
+    },
+    {
+      "metric_id": "M003",
+      "case_key": "scene_36_27|Vehicle:3|0118",
+      "metric": "outside_selected_face_N",
+      "value": 1351,
+      "unit": "count",
+      "original_source_sha256": "2e40b7b6ef150a2aa0083f0ddeab216df43bd4dbaa1bdce28ac7fb0bfc5bd9b5",
+      "original_JSON_pointer": "/outside_selected_face_N"
+    },
+    {
+      "metric_id": "M004",
+      "case_key": "scene_36_27|Vehicle:3|0118",
+      "metric": "selected_face_clearance_min",
+      "value": -64.36721414460443,
+      "unit": "m",
+      "original_source_sha256": "2e40b7b6ef150a2aa0083f0ddeab216df43bd4dbaa1bdce28ac7fb0bfc5bd9b5",
+      "original_JSON_pointer": "/signed_selected_face_clearance_min_p05_p25_median_p75_p95_max_m/0"
+    },
+    {
+      "metric_id": "M005",
+      "case_key": "scene_36_27|Vehicle:3|0118",
+      "metric": "selected_face_clearance_p05",
+      "value": -0.12385528659148815,
+      "unit": "m",
+      "original_source_sha256": "2e40b7b6ef150a2aa0083f0ddeab216df43bd4dbaa1bdce28ac7fb0bfc5bd9b5",
+      "original_JSON_pointer": "/signed_selected_face_clearance_min_p05_p25_median_p75_p95_max_m/1"
+    },
+    {
+      "metric_id": "M006",
+      "case_key": "scene_36_27|Vehicle:3|0118",
+      "metric": "selected_face_clearance_p25",
+      "value": 0.37081925198457055,
+      "unit": "m",
+      "original_source_sha256": "2e40b7b6ef150a2aa0083f0ddeab216df43bd4dbaa1bdce28ac7fb0bfc5bd9b5",
+      "original_JSON_pointer": "/signed_selected_face_clearance_min_p05_p25_median_p75_p95_max_m/2"
+    },
+    {
+      "metric_id": "M007",
+      "case_key": "scene_36_27|Vehicle:3|0118",
+      "metric": "selected_face_clearance_median",
+      "value": 0.4612512073185857,
+      "unit": "m",
+      "original_source_sha256": "2e40b7b6ef150a2aa0083f0ddeab216df43bd4dbaa1bdce28ac7fb0bfc5bd9b5",
+      "original_JSON_pointer": "/signed_selected_face_clearance_min_p05_p25_median_p75_p95_max_m/3"
+    },
+    {
+      "metric_id": "M008",
+      "case_key": "scene_36_27|Vehicle:3|0118",
+      "metric": "selected_face_clearance_p75",
+      "value": 0.5809379732074733,
+      "unit": "m",
+      "original_source_sha256": "2e40b7b6ef150a2aa0083f0ddeab216df43bd4dbaa1bdce28ac7fb0bfc5bd9b5",
+      "original_JSON_pointer": "/signed_selected_face_clearance_min_p05_p25_median_p75_p95_max_m/4"
+    },
+    {
+      "metric_id": "M009",
+      "case_key": "scene_36_27|Vehicle:3|0118",
+      "metric": "selected_face_clearance_p95",
+      "value": 1.060583610955657,
+      "unit": "m",
+      "original_source_sha256": "2e40b7b6ef150a2aa0083f0ddeab216df43bd4dbaa1bdce28ac7fb0bfc5bd9b5",
+      "original_JSON_pointer": "/signed_selected_face_clearance_min_p05_p25_median_p75_p95_max_m/5"
+    },
+    {
+      "metric_id": "M010",
+      "case_key": "scene_36_27|Vehicle:3|0118",
+      "metric": "selected_face_clearance_max",
+      "value": 2.8663622186014655,
+      "unit": "m",
+      "original_source_sha256": "2e40b7b6ef150a2aa0083f0ddeab216df43bd4dbaa1bdce28ac7fb0bfc5bd9b5",
+      "original_JSON_pointer": "/signed_selected_face_clearance_min_p05_p25_median_p75_p95_max_m/6"
+    },
+    {
+      "metric_id": "M011",
+      "case_key": "scene_36_27|Vehicle:3|0118",
+      "metric": "sensor_1_N",
+      "value": 592,
+      "unit": "count",
+      "original_source_sha256": "2e40b7b6ef150a2aa0083f0ddeab216df43bd4dbaa1bdce28ac7fb0bfc5bd9b5",
+      "original_JSON_pointer": "/per_sensor_statistics/1/N"
+    },
+    {
+      "metric_id": "M012",
+      "case_key": "scene_36_27|Vehicle:3|0118",
+      "metric": "sensor_1_median_clearance",
+      "value": 0.4703056882671488,
+      "unit": "m",
+      "original_source_sha256": "2e40b7b6ef150a2aa0083f0ddeab216df43bd4dbaa1bdce28ac7fb0bfc5bd9b5",
+      "original_JSON_pointer": "/per_sensor_statistics/1/signed_selected_face_clearance_min_p05_p25_median_p75_p95_max_m/3"
+    },
+    {
+      "metric_id": "M013",
+      "case_key": "scene_36_27|Vehicle:3|0118",
+      "metric": "sensor_2_N",
+      "value": 869,
+      "unit": "count",
+      "original_source_sha256": "2e40b7b6ef150a2aa0083f0ddeab216df43bd4dbaa1bdce28ac7fb0bfc5bd9b5",
+      "original_JSON_pointer": "/per_sensor_statistics/2/N"
+    },
+    {
+      "metric_id": "M014",
+      "case_key": "scene_36_27|Vehicle:3|0118",
+      "metric": "sensor_2_median_clearance",
+      "value": 0.45896466013033743,
+      "unit": "m",
+      "original_source_sha256": "2e40b7b6ef150a2aa0083f0ddeab216df43bd4dbaa1bdce28ac7fb0bfc5bd9b5",
+      "original_JSON_pointer": "/per_sensor_statistics/2/signed_selected_face_clearance_min_p05_p25_median_p75_p95_max_m/3"
+    },
+    {
+      "metric_id": "M015",
+      "case_key": "scene_36_27|Vehicle:3|0118",
+      "metric": "Aeva_minus_annotation_filename_ms",
+      "value": 27.921223,
+      "unit": "ms",
+      "original_source_sha256": "2e40b7b6ef150a2aa0083f0ddeab216df43bd4dbaa1bdce28ac7fb0bfc5bd9b5",
+      "original_JSON_pointer": "/Aeva_minus_annotation_filename_ms"
+    },
+    {
+      "metric_id": "M016",
+      "case_key": "scene_36_27|Vehicle:3|0118",
+      "metric": "Aeva_minus_JPEG_filename_ms",
+      "value": 27.921223,
+      "unit": "ms",
+      "original_source_sha256": "2e40b7b6ef150a2aa0083f0ddeab216df43bd4dbaa1bdce28ac7fb0bfc5bd9b5",
+      "original_JSON_pointer": "/Aeva_minus_JPEG_filename_ms"
+    },
+    {
+      "metric_id": "M017",
+      "case_key": "scene_36_27|Vehicle:3|0118",
+      "metric": "raw_point_N",
+      "value": 466096,
+      "unit": "count",
+      "original_source_sha256": "1e01f6eaf9e6c1a5387883f04f2b54bbd67182064ea72bd0c6286ba14ac1e3b3",
+      "original_JSON_pointer": "/raw_point_N"
+    },
+    {
+      "metric_id": "M018",
+      "case_key": "scene_36_27|Vehicle:3|0118",
+      "metric": "GT_OBB_points",
+      "value": 136,
+      "unit": "count",
+      "original_source_sha256": "1e01f6eaf9e6c1a5387883f04f2b54bbd67182064ea72bd0c6286ba14ac1e3b3",
+      "original_JSON_pointer": "/GT_OBB_points"
+    },
+    {
+      "metric_id": "M019",
+      "case_key": "scene_36_27|Vehicle:3|0118",
+      "metric": "Aeva_to_Velodyne_frozen_maxabs_difference",
+      "value": 0.0,
+      "unit": "matrix max abs",
+      "original_source_sha256": "1e01f6eaf9e6c1a5387883f04f2b54bbd67182064ea72bd0c6286ba14ac1e3b3",
+      "original_JSON_pointer": "/Aeva_to_Velodyne_frozen_maxabs_difference"
+    },
+    {
+      "metric_id": "M020",
+      "case_key": "scene_36_27|Vehicle:3|0118",
+      "metric": "camera_projection_frozen_maxabs_difference",
+      "value": 4.547473508864641e-13,
+      "unit": "matrix max abs",
+      "original_source_sha256": "1e01f6eaf9e6c1a5387883f04f2b54bbd67182064ea72bd0c6286ba14ac1e3b3",
+      "original_JSON_pointer": "/camera_projection_frozen_maxabs_difference"
+    },
+    {
+      "metric_id": "M021",
+      "case_key": "scene_36_39|Vehicle:10|0070",
+      "metric": "N",
+      "value": 1600,
+      "unit": "count",
+      "original_source_sha256": "ae7cde22717773a4f6f349d41ea4d152226ec57d00b9daa23a1b545d5fcf80b4",
+      "original_JSON_pointer": "/N"
+    },
+    {
+      "metric_id": "M022",
+      "case_key": "scene_36_39|Vehicle:10|0070",
+      "metric": "inside_full_OBB_N",
+      "value": 5,
+      "unit": "count",
+      "original_source_sha256": "ae7cde22717773a4f6f349d41ea4d152226ec57d00b9daa23a1b545d5fcf80b4",
+      "original_JSON_pointer": "/inside_full_OBB_N"
+    },
+    {
+      "metric_id": "M023",
+      "case_key": "scene_36_39|Vehicle:10|0070",
+      "metric": "outside_selected_face_N",
+      "value": 1592,
+      "unit": "count",
+      "original_source_sha256": "ae7cde22717773a4f6f349d41ea4d152226ec57d00b9daa23a1b545d5fcf80b4",
+      "original_JSON_pointer": "/outside_selected_face_N"
+    },
+    {
+      "metric_id": "M024",
+      "case_key": "scene_36_39|Vehicle:10|0070",
+      "metric": "selected_face_clearance_min",
+      "value": -11.301149078523583,
+      "unit": "m",
+      "original_source_sha256": "ae7cde22717773a4f6f349d41ea4d152226ec57d00b9daa23a1b545d5fcf80b4",
+      "original_JSON_pointer": "/signed_selected_face_clearance_min_p05_p25_median_p75_p95_max_m/0"
+    },
+    {
+      "metric_id": "M025",
+      "case_key": "scene_36_39|Vehicle:10|0070",
+      "metric": "selected_face_clearance_p05",
+      "value": 0.2976122485236993,
+      "unit": "m",
+      "original_source_sha256": "ae7cde22717773a4f6f349d41ea4d152226ec57d00b9daa23a1b545d5fcf80b4",
+      "original_JSON_pointer": "/signed_selected_face_clearance_min_p05_p25_median_p75_p95_max_m/1"
+    },
+    {
+      "metric_id": "M026",
+      "case_key": "scene_36_39|Vehicle:10|0070",
+      "metric": "selected_face_clearance_p25",
+      "value": 0.4138719993467843,
+      "unit": "m",
+      "original_source_sha256": "ae7cde22717773a4f6f349d41ea4d152226ec57d00b9daa23a1b545d5fcf80b4",
+      "original_JSON_pointer": "/signed_selected_face_clearance_min_p05_p25_median_p75_p95_max_m/2"
+    },
+    {
+      "metric_id": "M027",
+      "case_key": "scene_36_39|Vehicle:10|0070",
+      "metric": "selected_face_clearance_median",
+      "value": 0.4724149279852403,
+      "unit": "m",
+      "original_source_sha256": "ae7cde22717773a4f6f349d41ea4d152226ec57d00b9daa23a1b545d5fcf80b4",
+      "original_JSON_pointer": "/signed_selected_face_clearance_min_p05_p25_median_p75_p95_max_m/3"
+    },
+    {
+      "metric_id": "M028",
+      "case_key": "scene_36_39|Vehicle:10|0070",
+      "metric": "selected_face_clearance_p75",
+      "value": 0.5380766460002775,
+      "unit": "m",
+      "original_source_sha256": "ae7cde22717773a4f6f349d41ea4d152226ec57d00b9daa23a1b545d5fcf80b4",
+      "original_JSON_pointer": "/signed_selected_face_clearance_min_p05_p25_median_p75_p95_max_m/4"
+    },
+    {
+      "metric_id": "M029",
+      "case_key": "scene_36_39|Vehicle:10|0070",
+      "metric": "selected_face_clearance_p95",
+      "value": 0.6729429809448098,
+      "unit": "m",
+      "original_source_sha256": "ae7cde22717773a4f6f349d41ea4d152226ec57d00b9daa23a1b545d5fcf80b4",
+      "original_JSON_pointer": "/signed_selected_face_clearance_min_p05_p25_median_p75_p95_max_m/5"
+    },
+    {
+      "metric_id": "M030",
+      "case_key": "scene_36_39|Vehicle:10|0070",
+      "metric": "selected_face_clearance_max",
+      "value": 0.9203313860609175,
+      "unit": "m",
+      "original_source_sha256": "ae7cde22717773a4f6f349d41ea4d152226ec57d00b9daa23a1b545d5fcf80b4",
+      "original_JSON_pointer": "/signed_selected_face_clearance_min_p05_p25_median_p75_p95_max_m/6"
+    },
+    {
+      "metric_id": "M031",
+      "case_key": "scene_36_39|Vehicle:10|0070",
+      "metric": "sensor_1_N",
+      "value": 760,
+      "unit": "count",
+      "original_source_sha256": "ae7cde22717773a4f6f349d41ea4d152226ec57d00b9daa23a1b545d5fcf80b4",
+      "original_JSON_pointer": "/per_sensor_statistics/1/N"
+    },
+    {
+      "metric_id": "M032",
+      "case_key": "scene_36_39|Vehicle:10|0070",
+      "metric": "sensor_1_median_clearance",
+      "value": 0.46900751924717454,
+      "unit": "m",
+      "original_source_sha256": "ae7cde22717773a4f6f349d41ea4d152226ec57d00b9daa23a1b545d5fcf80b4",
+      "original_JSON_pointer": "/per_sensor_statistics/1/signed_selected_face_clearance_min_p05_p25_median_p75_p95_max_m/3"
+    },
+    {
+      "metric_id": "M033",
+      "case_key": "scene_36_39|Vehicle:10|0070",
+      "metric": "sensor_2_N",
+      "value": 840,
+      "unit": "count",
+      "original_source_sha256": "ae7cde22717773a4f6f349d41ea4d152226ec57d00b9daa23a1b545d5fcf80b4",
+      "original_JSON_pointer": "/per_sensor_statistics/2/N"
+    },
+    {
+      "metric_id": "M034",
+      "case_key": "scene_36_39|Vehicle:10|0070",
+      "metric": "sensor_2_median_clearance",
+      "value": 0.4757883044510889,
+      "unit": "m",
+      "original_source_sha256": "ae7cde22717773a4f6f349d41ea4d152226ec57d00b9daa23a1b545d5fcf80b4",
+      "original_JSON_pointer": "/per_sensor_statistics/2/signed_selected_face_clearance_min_p05_p25_median_p75_p95_max_m/3"
+    },
+    {
+      "metric_id": "M035",
+      "case_key": "scene_36_39|Vehicle:10|0070",
+      "metric": "Aeva_minus_annotation_filename_ms",
+      "value": 28.011563,
+      "unit": "ms",
+      "original_source_sha256": "ae7cde22717773a4f6f349d41ea4d152226ec57d00b9daa23a1b545d5fcf80b4",
+      "original_JSON_pointer": "/Aeva_minus_annotation_filename_ms"
+    },
+    {
+      "metric_id": "M036",
+      "case_key": "scene_36_39|Vehicle:10|0070",
+      "metric": "Aeva_minus_JPEG_filename_ms",
+      "value": 28.011563,
+      "unit": "ms",
+      "original_source_sha256": "ae7cde22717773a4f6f349d41ea4d152226ec57d00b9daa23a1b545d5fcf80b4",
+      "original_JSON_pointer": "/Aeva_minus_JPEG_filename_ms"
+    },
+    {
+      "metric_id": "M037",
+      "case_key": "scene_36_39|Vehicle:10|0070",
+      "metric": "raw_point_N",
+      "value": 443586,
+      "unit": "count",
+      "original_source_sha256": "ce57b8a1d6c82bd80302558ad8cbb9b65842c98d818dbcf34b44e413991e05fd",
+      "original_JSON_pointer": "/raw_point_N"
+    },
+    {
+      "metric_id": "M038",
+      "case_key": "scene_36_39|Vehicle:10|0070",
+      "metric": "GT_OBB_points",
+      "value": 817,
+      "unit": "count",
+      "original_source_sha256": "ce57b8a1d6c82bd80302558ad8cbb9b65842c98d818dbcf34b44e413991e05fd",
+      "original_JSON_pointer": "/GT_OBB_points"
+    },
+    {
+      "metric_id": "M039",
+      "case_key": "scene_36_39|Vehicle:10|0070",
+      "metric": "Aeva_to_Velodyne_frozen_maxabs_difference",
+      "value": 0.0,
+      "unit": "matrix max abs",
+      "original_source_sha256": "ce57b8a1d6c82bd80302558ad8cbb9b65842c98d818dbcf34b44e413991e05fd",
+      "original_JSON_pointer": "/Aeva_to_Velodyne_frozen_maxabs_difference"
+    },
+    {
+      "metric_id": "M040",
+      "case_key": "scene_36_39|Vehicle:10|0070",
+      "metric": "camera_projection_frozen_maxabs_difference",
+      "value": 4.547473508864641e-13,
+      "unit": "matrix max abs",
+      "original_source_sha256": "ce57b8a1d6c82bd80302558ad8cbb9b65842c98d818dbcf34b44e413991e05fd",
+      "original_JSON_pointer": "/camera_projection_frozen_maxabs_difference"
+    },
+    {
+      "metric_id": "M041",
+      "case_key": "scene_36_39|Vehicle:10|0032",
+      "metric": "N",
+      "value": 282,
+      "unit": "count",
+      "original_source_sha256": "e8fc448d56216cccc3c0ffca7803e32acac6e8c2b79026ffaaf5e3de27a0b739",
+      "original_JSON_pointer": "/N"
+    },
+    {
+      "metric_id": "M042",
+      "case_key": "scene_36_39|Vehicle:10|0032",
+      "metric": "inside_full_OBB_N",
+      "value": 0,
+      "unit": "count",
+      "original_source_sha256": "e8fc448d56216cccc3c0ffca7803e32acac6e8c2b79026ffaaf5e3de27a0b739",
+      "original_JSON_pointer": "/inside_full_OBB_N"
+    },
+    {
+      "metric_id": "M043",
+      "case_key": "scene_36_39|Vehicle:10|0032",
+      "metric": "outside_selected_face_N",
+      "value": 282,
+      "unit": "count",
+      "original_source_sha256": "e8fc448d56216cccc3c0ffca7803e32acac6e8c2b79026ffaaf5e3de27a0b739",
+      "original_JSON_pointer": "/outside_selected_face_N"
+    },
+    {
+      "metric_id": "M044",
+      "case_key": "scene_36_39|Vehicle:10|0032",
+      "metric": "selected_face_clearance_min",
+      "value": 0.06417525768070753,
+      "unit": "m",
+      "original_source_sha256": "e8fc448d56216cccc3c0ffca7803e32acac6e8c2b79026ffaaf5e3de27a0b739",
+      "original_JSON_pointer": "/signed_selected_face_clearance_min_p05_p25_median_p75_p95_max_m/0"
+    },
+    {
+      "metric_id": "M045",
+      "case_key": "scene_36_39|Vehicle:10|0032",
+      "metric": "selected_face_clearance_p05",
+      "value": 0.4771163999606819,
+      "unit": "m",
+      "original_source_sha256": "e8fc448d56216cccc3c0ffca7803e32acac6e8c2b79026ffaaf5e3de27a0b739",
+      "original_JSON_pointer": "/signed_selected_face_clearance_min_p05_p25_median_p75_p95_max_m/1"
+    },
+    {
+      "metric_id": "M046",
+      "case_key": "scene_36_39|Vehicle:10|0032",
+      "metric": "selected_face_clearance_p25",
+      "value": 0.5856766509923106,
+      "unit": "m",
+      "original_source_sha256": "e8fc448d56216cccc3c0ffca7803e32acac6e8c2b79026ffaaf5e3de27a0b739",
+      "original_JSON_pointer": "/signed_selected_face_clearance_min_p05_p25_median_p75_p95_max_m/2"
+    },
+    {
+      "metric_id": "M047",
+      "case_key": "scene_36_39|Vehicle:10|0032",
+      "metric": "selected_face_clearance_median",
+      "value": 0.685512158787728,
+      "unit": "m",
+      "original_source_sha256": "e8fc448d56216cccc3c0ffca7803e32acac6e8c2b79026ffaaf5e3de27a0b739",
+      "original_JSON_pointer": "/signed_selected_face_clearance_min_p05_p25_median_p75_p95_max_m/3"
+    },
+    {
+      "metric_id": "M048",
+      "case_key": "scene_36_39|Vehicle:10|0032",
+      "metric": "selected_face_clearance_p75",
+      "value": 0.7911412355143783,
+      "unit": "m",
+      "original_source_sha256": "e8fc448d56216cccc3c0ffca7803e32acac6e8c2b79026ffaaf5e3de27a0b739",
+      "original_JSON_pointer": "/signed_selected_face_clearance_min_p05_p25_median_p75_p95_max_m/4"
+    },
+    {
+      "metric_id": "M049",
+      "case_key": "scene_36_39|Vehicle:10|0032",
+      "metric": "selected_face_clearance_p95",
+      "value": 0.9807044468806978,
+      "unit": "m",
+      "original_source_sha256": "e8fc448d56216cccc3c0ffca7803e32acac6e8c2b79026ffaaf5e3de27a0b739",
+      "original_JSON_pointer": "/signed_selected_face_clearance_min_p05_p25_median_p75_p95_max_m/5"
+    },
+    {
+      "metric_id": "M050",
+      "case_key": "scene_36_39|Vehicle:10|0032",
+      "metric": "selected_face_clearance_max",
+      "value": 1.3470705373103122,
+      "unit": "m",
+      "original_source_sha256": "e8fc448d56216cccc3c0ffca7803e32acac6e8c2b79026ffaaf5e3de27a0b739",
+      "original_JSON_pointer": "/signed_selected_face_clearance_min_p05_p25_median_p75_p95_max_m/6"
+    },
+    {
+      "metric_id": "M051",
+      "case_key": "scene_36_39|Vehicle:10|0032",
+      "metric": "sensor_1_N",
+      "value": 149,
+      "unit": "count",
+      "original_source_sha256": "e8fc448d56216cccc3c0ffca7803e32acac6e8c2b79026ffaaf5e3de27a0b739",
+      "original_JSON_pointer": "/per_sensor_statistics/1/N"
+    },
+    {
+      "metric_id": "M052",
+      "case_key": "scene_36_39|Vehicle:10|0032",
+      "metric": "sensor_1_median_clearance",
+      "value": 0.6529197430114788,
+      "unit": "m",
+      "original_source_sha256": "e8fc448d56216cccc3c0ffca7803e32acac6e8c2b79026ffaaf5e3de27a0b739",
+      "original_JSON_pointer": "/per_sensor_statistics/1/signed_selected_face_clearance_min_p05_p25_median_p75_p95_max_m/3"
+    },
+    {
+      "metric_id": "M053",
+      "case_key": "scene_36_39|Vehicle:10|0032",
+      "metric": "sensor_2_N",
+      "value": 133,
+      "unit": "count",
+      "original_source_sha256": "e8fc448d56216cccc3c0ffca7803e32acac6e8c2b79026ffaaf5e3de27a0b739",
+      "original_JSON_pointer": "/per_sensor_statistics/2/N"
+    },
+    {
+      "metric_id": "M054",
+      "case_key": "scene_36_39|Vehicle:10|0032",
+      "metric": "sensor_2_median_clearance",
+      "value": 0.7050581104467764,
+      "unit": "m",
+      "original_source_sha256": "e8fc448d56216cccc3c0ffca7803e32acac6e8c2b79026ffaaf5e3de27a0b739",
+      "original_JSON_pointer": "/per_sensor_statistics/2/signed_selected_face_clearance_min_p05_p25_median_p75_p95_max_m/3"
+    },
+    {
+      "metric_id": "M055",
+      "case_key": "scene_36_39|Vehicle:10|0032",
+      "metric": "Aeva_minus_annotation_filename_ms",
+      "value": 27.988713,
+      "unit": "ms",
+      "original_source_sha256": "e8fc448d56216cccc3c0ffca7803e32acac6e8c2b79026ffaaf5e3de27a0b739",
+      "original_JSON_pointer": "/Aeva_minus_annotation_filename_ms"
+    },
+    {
+      "metric_id": "M056",
+      "case_key": "scene_36_39|Vehicle:10|0032",
+      "metric": "Aeva_minus_JPEG_filename_ms",
+      "value": 27.988713,
+      "unit": "ms",
+      "original_source_sha256": "e8fc448d56216cccc3c0ffca7803e32acac6e8c2b79026ffaaf5e3de27a0b739",
+      "original_JSON_pointer": "/Aeva_minus_JPEG_filename_ms"
+    },
+    {
+      "metric_id": "M057",
+      "case_key": "scene_36_39|Vehicle:10|0032",
+      "metric": "raw_point_N",
+      "value": 434538,
+      "unit": "count",
+      "original_source_sha256": "3d41177fe55a5f401f59f1fd03ea1af893675c3b7d9397cbfffee86e9cd8dbb0",
+      "original_JSON_pointer": "/raw_point_N"
+    },
+    {
+      "metric_id": "M058",
+      "case_key": "scene_36_39|Vehicle:10|0032",
+      "metric": "GT_OBB_points",
+      "value": 51,
+      "unit": "count",
+      "original_source_sha256": "3d41177fe55a5f401f59f1fd03ea1af893675c3b7d9397cbfffee86e9cd8dbb0",
+      "original_JSON_pointer": "/GT_OBB_points"
+    },
+    {
+      "metric_id": "M059",
+      "case_key": "scene_36_39|Vehicle:10|0032",
+      "metric": "Aeva_to_Velodyne_frozen_maxabs_difference",
+      "value": 0.0,
+      "unit": "matrix max abs",
+      "original_source_sha256": "3d41177fe55a5f401f59f1fd03ea1af893675c3b7d9397cbfffee86e9cd8dbb0",
+      "original_JSON_pointer": "/Aeva_to_Velodyne_frozen_maxabs_difference"
+    },
+    {
+      "metric_id": "M060",
+      "case_key": "scene_36_39|Vehicle:10|0032",
+      "metric": "camera_projection_frozen_maxabs_difference",
+      "value": 4.547473508864641e-13,
+      "unit": "matrix max abs",
+      "original_source_sha256": "3d41177fe55a5f401f59f1fd03ea1af893675c3b7d9397cbfffee86e9cd8dbb0",
+      "original_JSON_pointer": "/camera_projection_frozen_maxabs_difference"
+    },
+    {
+      "metric_id": "M061",
+      "case_key": "scene_35_31|Vehicle:97|0188",
+      "metric": "independent_upright_N",
+      "value": 589,
+      "unit": "count",
+      "original_source_sha256": "5cd8ed8259d9f343b6898a40b96e75be1275ec94d67e0c9ee02aa68a9a7b38fe",
+      "original_JSON_pointer": "/independent_visible_panel_pixel_subset/upright/N"
+    },
+    {
+      "metric_id": "M062",
+      "case_key": "scene_35_31|Vehicle:97|0188",
+      "metric": "independent_upright_inside_N",
+      "value": 24,
+      "unit": "count",
+      "original_source_sha256": "5cd8ed8259d9f343b6898a40b96e75be1275ec94d67e0c9ee02aa68a9a7b38fe",
+      "original_JSON_pointer": "/independent_visible_panel_pixel_subset/upright/inside_N"
+    },
+    {
+      "metric_id": "M063",
+      "case_key": "scene_35_31|Vehicle:97|0188",
+      "metric": "independent_upright_outside_positive_lateral_face_N",
+      "value": 565,
+      "unit": "count",
+      "original_source_sha256": "5cd8ed8259d9f343b6898a40b96e75be1275ec94d67e0c9ee02aa68a9a7b38fe",
+      "original_JSON_pointer": "/independent_visible_panel_pixel_subset/upright/outside_positive_lateral_face_N"
+    },
+    {
+      "metric_id": "M064",
+      "case_key": "scene_35_31|Vehicle:97|0188",
+      "metric": "independent_upright_clearance_min",
+      "value": -1.7833930763758068,
+      "unit": "m",
+      "original_source_sha256": "5cd8ed8259d9f343b6898a40b96e75be1275ec94d67e0c9ee02aa68a9a7b38fe",
+      "original_JSON_pointer": "/independent_visible_panel_pixel_subset/upright/signed_lateral_clearance_quantiles_m/0"
+    },
+    {
+      "metric_id": "M065",
+      "case_key": "scene_35_31|Vehicle:97|0188",
+      "metric": "independent_upright_clearance_p05",
+      "value": 0.06528211634028663,
+      "unit": "m",
+      "original_source_sha256": "5cd8ed8259d9f343b6898a40b96e75be1275ec94d67e0c9ee02aa68a9a7b38fe",
+      "original_JSON_pointer": "/independent_visible_panel_pixel_subset/upright/signed_lateral_clearance_quantiles_m/1"
+    },
+    {
+      "metric_id": "M066",
+      "case_key": "scene_35_31|Vehicle:97|0188",
+      "metric": "independent_upright_clearance_p25",
+      "value": 0.35375621833332116,
+      "unit": "m",
+      "original_source_sha256": "5cd8ed8259d9f343b6898a40b96e75be1275ec94d67e0c9ee02aa68a9a7b38fe",
+      "original_JSON_pointer": "/independent_visible_panel_pixel_subset/upright/signed_lateral_clearance_quantiles_m/2"
+    },
+    {
+      "metric_id": "M067",
+      "case_key": "scene_35_31|Vehicle:97|0188",
+      "metric": "independent_upright_clearance_median",
+      "value": 0.4435033896081837,
+      "unit": "m",
+      "original_source_sha256": "5cd8ed8259d9f343b6898a40b96e75be1275ec94d67e0c9ee02aa68a9a7b38fe",
+      "original_JSON_pointer": "/independent_visible_panel_pixel_subset/upright/signed_lateral_clearance_quantiles_m/3"
+    },
+    {
+      "metric_id": "M068",
+      "case_key": "scene_35_31|Vehicle:97|0188",
+      "metric": "independent_upright_clearance_p75",
+      "value": 0.5198550144594047,
+      "unit": "m",
+      "original_source_sha256": "5cd8ed8259d9f343b6898a40b96e75be1275ec94d67e0c9ee02aa68a9a7b38fe",
+      "original_JSON_pointer": "/independent_visible_panel_pixel_subset/upright/signed_lateral_clearance_quantiles_m/4"
+    },
+    {
+      "metric_id": "M069",
+      "case_key": "scene_35_31|Vehicle:97|0188",
+      "metric": "independent_upright_clearance_p95",
+      "value": 0.6138563873073881,
+      "unit": "m",
+      "original_source_sha256": "5cd8ed8259d9f343b6898a40b96e75be1275ec94d67e0c9ee02aa68a9a7b38fe",
+      "original_JSON_pointer": "/independent_visible_panel_pixel_subset/upright/signed_lateral_clearance_quantiles_m/5"
+    },
+    {
+      "metric_id": "M070",
+      "case_key": "scene_35_31|Vehicle:97|0188",
+      "metric": "independent_upright_clearance_max",
+      "value": 0.7104105727756376,
+      "unit": "m",
+      "original_source_sha256": "5cd8ed8259d9f343b6898a40b96e75be1275ec94d67e0c9ee02aa68a9a7b38fe",
+      "original_JSON_pointer": "/independent_visible_panel_pixel_subset/upright/signed_lateral_clearance_quantiles_m/6"
+    },
+    {
+      "metric_id": "M071",
+      "case_key": "scene_35_31|Vehicle:97|0188",
+      "metric": "independent_RPY_pose_sensitivity_N",
+      "value": 589,
+      "unit": "count",
+      "original_source_sha256": "5cd8ed8259d9f343b6898a40b96e75be1275ec94d67e0c9ee02aa68a9a7b38fe",
+      "original_JSON_pointer": "/independent_visible_panel_pixel_subset/RPY_pose_sensitivity/N"
+    },
+    {
+      "metric_id": "M072",
+      "case_key": "scene_35_31|Vehicle:97|0188",
+      "metric": "independent_RPY_pose_sensitivity_inside_N",
+      "value": 23,
+      "unit": "count",
+      "original_source_sha256": "5cd8ed8259d9f343b6898a40b96e75be1275ec94d67e0c9ee02aa68a9a7b38fe",
+      "original_JSON_pointer": "/independent_visible_panel_pixel_subset/RPY_pose_sensitivity/inside_N"
+    },
+    {
+      "metric_id": "M073",
+      "case_key": "scene_35_31|Vehicle:97|0188",
+      "metric": "independent_RPY_pose_sensitivity_outside_positive_lateral_face_N",
+      "value": 566,
+      "unit": "count",
+      "original_source_sha256": "5cd8ed8259d9f343b6898a40b96e75be1275ec94d67e0c9ee02aa68a9a7b38fe",
+      "original_JSON_pointer": "/independent_visible_panel_pixel_subset/RPY_pose_sensitivity/outside_positive_lateral_face_N"
+    },
+    {
+      "metric_id": "M074",
+      "case_key": "scene_35_31|Vehicle:97|0188",
+      "metric": "independent_RPY_pose_sensitivity_clearance_min",
+      "value": -1.7253065242171037,
+      "unit": "m",
+      "original_source_sha256": "5cd8ed8259d9f343b6898a40b96e75be1275ec94d67e0c9ee02aa68a9a7b38fe",
+      "original_JSON_pointer": "/independent_visible_panel_pixel_subset/RPY_pose_sensitivity/signed_lateral_clearance_quantiles_m/0"
+    },
+    {
+      "metric_id": "M075",
+      "case_key": "scene_35_31|Vehicle:97|0188",
+      "metric": "independent_RPY_pose_sensitivity_clearance_p05",
+      "value": 0.09759179860092448,
+      "unit": "m",
+      "original_source_sha256": "5cd8ed8259d9f343b6898a40b96e75be1275ec94d67e0c9ee02aa68a9a7b38fe",
+      "original_JSON_pointer": "/independent_visible_panel_pixel_subset/RPY_pose_sensitivity/signed_lateral_clearance_quantiles_m/1"
+    },
+    {
+      "metric_id": "M076",
+      "case_key": "scene_35_31|Vehicle:97|0188",
+      "metric": "independent_RPY_pose_sensitivity_clearance_p25",
+      "value": 0.389228848267263,
+      "unit": "m",
+      "original_source_sha256": "5cd8ed8259d9f343b6898a40b96e75be1275ec94d67e0c9ee02aa68a9a7b38fe",
+      "original_JSON_pointer": "/independent_visible_panel_pixel_subset/RPY_pose_sensitivity/signed_lateral_clearance_quantiles_m/2"
+    },
+    {
+      "metric_id": "M077",
+      "case_key": "scene_35_31|Vehicle:97|0188",
+      "metric": "independent_RPY_pose_sensitivity_clearance_median",
+      "value": 0.47751563664554464,
+      "unit": "m",
+      "original_source_sha256": "5cd8ed8259d9f343b6898a40b96e75be1275ec94d67e0c9ee02aa68a9a7b38fe",
+      "original_JSON_pointer": "/independent_visible_panel_pixel_subset/RPY_pose_sensitivity/signed_lateral_clearance_quantiles_m/3"
+    },
+    {
+      "metric_id": "M078",
+      "case_key": "scene_35_31|Vehicle:97|0188",
+      "metric": "independent_RPY_pose_sensitivity_clearance_p75",
+      "value": 0.5560590358250996,
+      "unit": "m",
+      "original_source_sha256": "5cd8ed8259d9f343b6898a40b96e75be1275ec94d67e0c9ee02aa68a9a7b38fe",
+      "original_JSON_pointer": "/independent_visible_panel_pixel_subset/RPY_pose_sensitivity/signed_lateral_clearance_quantiles_m/4"
+    },
+    {
+      "metric_id": "M079",
+      "case_key": "scene_35_31|Vehicle:97|0188",
+      "metric": "independent_RPY_pose_sensitivity_clearance_p95",
+      "value": 0.6593270513075994,
+      "unit": "m",
+      "original_source_sha256": "5cd8ed8259d9f343b6898a40b96e75be1275ec94d67e0c9ee02aa68a9a7b38fe",
+      "original_JSON_pointer": "/independent_visible_panel_pixel_subset/RPY_pose_sensitivity/signed_lateral_clearance_quantiles_m/5"
+    },
+    {
+      "metric_id": "M080",
+      "case_key": "scene_35_31|Vehicle:97|0188",
+      "metric": "independent_RPY_pose_sensitivity_clearance_max",
+      "value": 0.7940191836526567,
+      "unit": "m",
+      "original_source_sha256": "5cd8ed8259d9f343b6898a40b96e75be1275ec94d67e0c9ee02aa68a9a7b38fe",
+      "original_JSON_pointer": "/independent_visible_panel_pixel_subset/RPY_pose_sensitivity/signed_lateral_clearance_quantiles_m/6"
+    },
+    {
+      "metric_id": "M081",
+      "case_key": "scene_35_31|Vehicle:97|0188",
+      "metric": "legacy_GT_dependent_upright_N",
+      "value": 794,
+      "unit": "count",
+      "original_source_sha256": "5cd8ed8259d9f343b6898a40b96e75be1275ec94d67e0c9ee02aa68a9a7b38fe",
+      "original_JSON_pointer": "/previous_GT_dependent_794_subset/upright/N"
+    },
+    {
+      "metric_id": "M082",
+      "case_key": "scene_35_31|Vehicle:97|0188",
+      "metric": "legacy_GT_dependent_upright_inside_N",
+      "value": 28,
+      "unit": "count",
+      "original_source_sha256": "5cd8ed8259d9f343b6898a40b96e75be1275ec94d67e0c9ee02aa68a9a7b38fe",
+      "original_JSON_pointer": "/previous_GT_dependent_794_subset/upright/inside_N"
+    },
+    {
+      "metric_id": "M083",
+      "case_key": "scene_35_31|Vehicle:97|0188",
+      "metric": "legacy_GT_dependent_upright_outside_positive_lateral_face_N",
+      "value": 766,
+      "unit": "count",
+      "original_source_sha256": "5cd8ed8259d9f343b6898a40b96e75be1275ec94d67e0c9ee02aa68a9a7b38fe",
+      "original_JSON_pointer": "/previous_GT_dependent_794_subset/upright/outside_positive_lateral_face_N"
+    },
+    {
+      "metric_id": "M084",
+      "case_key": "scene_35_31|Vehicle:97|0188",
+      "metric": "legacy_GT_dependent_upright_clearance_min",
+      "value": -0.38566386193632995,
+      "unit": "m",
+      "original_source_sha256": "5cd8ed8259d9f343b6898a40b96e75be1275ec94d67e0c9ee02aa68a9a7b38fe",
+      "original_JSON_pointer": "/previous_GT_dependent_794_subset/upright/signed_lateral_clearance_quantiles_m/0"
+    },
+    {
+      "metric_id": "M085",
+      "case_key": "scene_35_31|Vehicle:97|0188",
+      "metric": "legacy_GT_dependent_upright_clearance_p05",
+      "value": 0.16269834126682842,
+      "unit": "m",
+      "original_source_sha256": "5cd8ed8259d9f343b6898a40b96e75be1275ec94d67e0c9ee02aa68a9a7b38fe",
+      "original_JSON_pointer": "/previous_GT_dependent_794_subset/upright/signed_lateral_clearance_quantiles_m/1"
+    },
+    {
+      "metric_id": "M086",
+      "case_key": "scene_35_31|Vehicle:97|0188",
+      "metric": "legacy_GT_dependent_upright_clearance_p25",
+      "value": 0.34976578193452246,
+      "unit": "m",
+      "original_source_sha256": "5cd8ed8259d9f343b6898a40b96e75be1275ec94d67e0c9ee02aa68a9a7b38fe",
+      "original_JSON_pointer": "/previous_GT_dependent_794_subset/upright/signed_lateral_clearance_quantiles_m/2"
+    },
+    {
+      "metric_id": "M087",
+      "case_key": "scene_35_31|Vehicle:97|0188",
+      "metric": "legacy_GT_dependent_upright_clearance_median",
+      "value": 0.43616743287779036,
+      "unit": "m",
+      "original_source_sha256": "5cd8ed8259d9f343b6898a40b96e75be1275ec94d67e0c9ee02aa68a9a7b38fe",
+      "original_JSON_pointer": "/previous_GT_dependent_794_subset/upright/signed_lateral_clearance_quantiles_m/3"
+    },
+    {
+      "metric_id": "M088",
+      "case_key": "scene_35_31|Vehicle:97|0188",
+      "metric": "legacy_GT_dependent_upright_clearance_p75",
+      "value": 0.5139738328933616,
+      "unit": "m",
+      "original_source_sha256": "5cd8ed8259d9f343b6898a40b96e75be1275ec94d67e0c9ee02aa68a9a7b38fe",
+      "original_JSON_pointer": "/previous_GT_dependent_794_subset/upright/signed_lateral_clearance_quantiles_m/4"
+    },
+    {
+      "metric_id": "M089",
+      "case_key": "scene_35_31|Vehicle:97|0188",
+      "metric": "legacy_GT_dependent_upright_clearance_p95",
+      "value": 0.6100890630012413,
+      "unit": "m",
+      "original_source_sha256": "5cd8ed8259d9f343b6898a40b96e75be1275ec94d67e0c9ee02aa68a9a7b38fe",
+      "original_JSON_pointer": "/previous_GT_dependent_794_subset/upright/signed_lateral_clearance_quantiles_m/5"
+    },
+    {
+      "metric_id": "M090",
+      "case_key": "scene_35_31|Vehicle:97|0188",
+      "metric": "legacy_GT_dependent_upright_clearance_max",
+      "value": 0.7104105727756376,
+      "unit": "m",
+      "original_source_sha256": "5cd8ed8259d9f343b6898a40b96e75be1275ec94d67e0c9ee02aa68a9a7b38fe",
+      "original_JSON_pointer": "/previous_GT_dependent_794_subset/upright/signed_lateral_clearance_quantiles_m/6"
+    },
+    {
+      "metric_id": "M091",
+      "case_key": "scene_35_31|Vehicle:97|0188",
+      "metric": "legacy_GT_dependent_RPY_pose_sensitivity_N",
+      "value": 794,
+      "unit": "count",
+      "original_source_sha256": "5cd8ed8259d9f343b6898a40b96e75be1275ec94d67e0c9ee02aa68a9a7b38fe",
+      "original_JSON_pointer": "/previous_GT_dependent_794_subset/RPY_pose_sensitivity/N"
+    },
+    {
+      "metric_id": "M092",
+      "case_key": "scene_35_31|Vehicle:97|0188",
+      "metric": "legacy_GT_dependent_RPY_pose_sensitivity_inside_N",
+      "value": 27,
+      "unit": "count",
+      "original_source_sha256": "5cd8ed8259d9f343b6898a40b96e75be1275ec94d67e0c9ee02aa68a9a7b38fe",
+      "original_JSON_pointer": "/previous_GT_dependent_794_subset/RPY_pose_sensitivity/inside_N"
+    },
+    {
+      "metric_id": "M093",
+      "case_key": "scene_35_31|Vehicle:97|0188",
+      "metric": "legacy_GT_dependent_RPY_pose_sensitivity_outside_positive_lateral_face_N",
+      "value": 767,
+      "unit": "count",
+      "original_source_sha256": "5cd8ed8259d9f343b6898a40b96e75be1275ec94d67e0c9ee02aa68a9a7b38fe",
+      "original_JSON_pointer": "/previous_GT_dependent_794_subset/RPY_pose_sensitivity/outside_positive_lateral_face_N"
+    },
+    {
+      "metric_id": "M094",
+      "case_key": "scene_35_31|Vehicle:97|0188",
+      "metric": "legacy_GT_dependent_RPY_pose_sensitivity_clearance_min",
+      "value": -0.4044898243980197,
+      "unit": "m",
+      "original_source_sha256": "5cd8ed8259d9f343b6898a40b96e75be1275ec94d67e0c9ee02aa68a9a7b38fe",
+      "original_JSON_pointer": "/previous_GT_dependent_794_subset/RPY_pose_sensitivity/signed_lateral_clearance_quantiles_m/0"
+    },
+    {
+      "metric_id": "M095",
+      "case_key": "scene_35_31|Vehicle:97|0188",
+      "metric": "legacy_GT_dependent_RPY_pose_sensitivity_clearance_p05",
+      "value": 0.11069922744945873,
+      "unit": "m",
+      "original_source_sha256": "5cd8ed8259d9f343b6898a40b96e75be1275ec94d67e0c9ee02aa68a9a7b38fe",
+      "original_JSON_pointer": "/previous_GT_dependent_794_subset/RPY_pose_sensitivity/signed_lateral_clearance_quantiles_m/1"
+    },
+    {
+      "metric_id": "M096",
+      "case_key": "scene_35_31|Vehicle:97|0188",
+      "metric": "legacy_GT_dependent_RPY_pose_sensitivity_clearance_p25",
+      "value": 0.3505682073598042,
+      "unit": "m",
+      "original_source_sha256": "5cd8ed8259d9f343b6898a40b96e75be1275ec94d67e0c9ee02aa68a9a7b38fe",
+      "original_JSON_pointer": "/previous_GT_dependent_794_subset/RPY_pose_sensitivity/signed_lateral_clearance_quantiles_m/2"
+    },
+    {
+      "metric_id": "M097",
+      "case_key": "scene_35_31|Vehicle:97|0188",
+      "metric": "legacy_GT_dependent_RPY_pose_sensitivity_clearance_median",
+      "value": 0.4509000499700603,
+      "unit": "m",
+      "original_source_sha256": "5cd8ed8259d9f343b6898a40b96e75be1275ec94d67e0c9ee02aa68a9a7b38fe",
+      "original_JSON_pointer": "/previous_GT_dependent_794_subset/RPY_pose_sensitivity/signed_lateral_clearance_quantiles_m/3"
+    },
+    {
+      "metric_id": "M098",
+      "case_key": "scene_35_31|Vehicle:97|0188",
+      "metric": "legacy_GT_dependent_RPY_pose_sensitivity_clearance_p75",
+      "value": 0.5350243476125862,
+      "unit": "m",
+      "original_source_sha256": "5cd8ed8259d9f343b6898a40b96e75be1275ec94d67e0c9ee02aa68a9a7b38fe",
+      "original_JSON_pointer": "/previous_GT_dependent_794_subset/RPY_pose_sensitivity/signed_lateral_clearance_quantiles_m/4"
+    },
+    {
+      "metric_id": "M099",
+      "case_key": "scene_35_31|Vehicle:97|0188",
+      "metric": "legacy_GT_dependent_RPY_pose_sensitivity_clearance_p95",
+      "value": 0.6453055720048226,
+      "unit": "m",
+      "original_source_sha256": "5cd8ed8259d9f343b6898a40b96e75be1275ec94d67e0c9ee02aa68a9a7b38fe",
+      "original_JSON_pointer": "/previous_GT_dependent_794_subset/RPY_pose_sensitivity/signed_lateral_clearance_quantiles_m/5"
+    },
+    {
+      "metric_id": "M100",
+      "case_key": "scene_35_31|Vehicle:97|0188",
+      "metric": "legacy_GT_dependent_RPY_pose_sensitivity_clearance_max",
+      "value": 0.7940191836526567,
+      "unit": "m",
+      "original_source_sha256": "5cd8ed8259d9f343b6898a40b96e75be1275ec94d67e0c9ee02aa68a9a7b38fe",
+      "original_JSON_pointer": "/previous_GT_dependent_794_subset/RPY_pose_sensitivity/signed_lateral_clearance_quantiles_m/6"
+    },
+    {
+      "metric_id": "M101",
+      "case_key": "scene_35_31|Vehicle:97|0188",
+      "metric": "raw_point_N",
+      "value": 463041,
+      "unit": "count",
+      "original_source_sha256": "5cd8ed8259d9f343b6898a40b96e75be1275ec94d67e0c9ee02aa68a9a7b38fe",
+      "original_JSON_pointer": "/processing_chain/raw_point_N"
+    },
+    {
+      "metric_id": "M102",
+      "case_key": "scene_35_31|Vehicle:97|0188",
+      "metric": "frozen_matrix_maxabs_difference",
+      "value": 0.0,
+      "unit": "m or matrix max abs (see metric)",
+      "original_source_sha256": "5cd8ed8259d9f343b6898a40b96e75be1275ec94d67e0c9ee02aa68a9a7b38fe",
+      "original_JSON_pointer": "/processing_chain/frozen_matrix_maxabs_difference"
+    },
+    {
+      "metric_id": "M103",
+      "case_key": "scene_35_31|Vehicle:97|0188",
+      "metric": "float32_vs_float64_point_error_m_max",
+      "value": 5.607995010379349e-05,
+      "unit": "m or matrix max abs (see metric)",
+      "original_source_sha256": "5cd8ed8259d9f343b6898a40b96e75be1275ec94d67e0c9ee02aa68a9a7b38fe",
+      "original_JSON_pointer": "/processing_chain/float32_vs_float64_point_error_m_max"
+    },
+    {
+      "metric_id": "M104",
+      "case_key": "scene_35_31|Vehicle:97|0188",
+      "metric": "selected_float32_vs_float64_error_m_max",
+      "value": 8.048170057661893e-06,
+      "unit": "m or matrix max abs (see metric)",
+      "original_source_sha256": "5cd8ed8259d9f343b6898a40b96e75be1275ec94d67e0c9ee02aa68a9a7b38fe",
+      "original_JSON_pointer": "/processing_chain/selected_float32_vs_float64_error_m_max"
+    },
+    {
+      "metric_id": "M105",
+      "case_key": "scene_35_31|Vehicle:97|0188",
+      "metric": "global_center_to_native_center_m",
+      "value": 8.881784197001252e-16,
+      "unit": "m or matrix max abs (see metric)",
+      "original_source_sha256": "5cd8ed8259d9f343b6898a40b96e75be1275ec94d67e0c9ee02aa68a9a7b38fe",
+      "original_JSON_pointer": "/processing_chain/global_center_to_native_center_m"
+    },
+    {
+      "metric_id": "M106",
+      "case_key": "scene_35_31|Vehicle:97|0188",
+      "metric": "native_pose_inverse_maxabs",
+      "value": 1.3322676295501878e-15,
+      "unit": "m or matrix max abs (see metric)",
+      "original_source_sha256": "5cd8ed8259d9f343b6898a40b96e75be1275ec94d67e0c9ee02aa68a9a7b38fe",
+      "original_JSON_pointer": "/processing_chain/native_pose_inverse_maxabs"
+    },
+    {
+      "metric_id": "M107",
+      "case_key": "scene_35_31|Vehicle:97|0188",
+      "metric": "XYZ_over_clip60000_N",
+      "value": 0,
+      "unit": "count",
+      "original_source_sha256": "5cd8ed8259d9f343b6898a40b96e75be1275ec94d67e0c9ee02aa68a9a7b38fe",
+      "original_JSON_pointer": "/processing_chain/XYZ_over_clip60000_N"
+    },
+    {
+      "metric_id": "M108",
+      "case_key": "scene_35_31|Vehicle:97|0188",
+      "metric": "full_cloud_upright_OBB_count",
+      "value": 316,
+      "unit": "count",
+      "original_source_sha256": "5cd8ed8259d9f343b6898a40b96e75be1275ec94d67e0c9ee02aa68a9a7b38fe",
+      "original_JSON_pointer": "/full_cloud_OBB_point_counts/upright"
+    },
+    {
+      "metric_id": "M109",
+      "case_key": "scene_35_31|Vehicle:97|0188",
+      "metric": "selected_589_in_parent_Cab",
+      "value": 0,
+      "unit": "count",
+      "original_source_sha256": "5cd8ed8259d9f343b6898a40b96e75be1275ec94d67e0c9ee02aa68a9a7b38fe",
+      "original_JSON_pointer": "/independent_visible_panel_pixel_subset/Parent_Cab_OBB_inside_N"
+    },
+    {
+      "metric_id": "M110",
+      "case_key": "scene_28_12|Vehicle:11|0062",
+      "metric": "points_N",
+      "value": 57,
+      "unit": "count",
+      "original_source_sha256": "c9b92f7a403449dcedf06618a4792379f0accc9cf2606e37f6fedce991e4570b",
+      "original_JSON_pointer": "/1/points_N"
+    },
+    {
+      "metric_id": "M111",
+      "case_key": "scene_28_12|Vehicle:11|0062",
+      "metric": "positive_clearance_point_N",
+      "value": 25,
+      "unit": "count",
+      "original_source_sha256": "c9b92f7a403449dcedf06618a4792379f0accc9cf2606e37f6fedce991e4570b",
+      "original_JSON_pointer": "/1/positive_clearance_point_N"
+    },
+    {
+      "metric_id": "M112",
+      "case_key": "scene_28_12|Vehicle:11|0062",
+      "metric": "corridor_longitudinal_clearance_min",
+      "value": -2.578727854946175,
+      "unit": "m",
+      "original_source_sha256": "c9b92f7a403449dcedf06618a4792379f0accc9cf2606e37f6fedce991e4570b",
+      "original_JSON_pointer": "/1/signed_surface_to_positive_face_quantiles_m/0"
+    },
+    {
+      "metric_id": "M113",
+      "case_key": "scene_28_12|Vehicle:11|0062",
+      "metric": "corridor_longitudinal_clearance_p05",
+      "value": -2.309262382088602,
+      "unit": "m",
+      "original_source_sha256": "c9b92f7a403449dcedf06618a4792379f0accc9cf2606e37f6fedce991e4570b",
+      "original_JSON_pointer": "/1/signed_surface_to_positive_face_quantiles_m/1"
+    },
+    {
+      "metric_id": "M114",
+      "case_key": "scene_28_12|Vehicle:11|0062",
+      "metric": "corridor_longitudinal_clearance_p25",
+      "value": -2.168822103445879,
+      "unit": "m",
+      "original_source_sha256": "c9b92f7a403449dcedf06618a4792379f0accc9cf2606e37f6fedce991e4570b",
+      "original_JSON_pointer": "/1/signed_surface_to_positive_face_quantiles_m/2"
+    },
+    {
+      "metric_id": "M115",
+      "case_key": "scene_28_12|Vehicle:11|0062",
+      "metric": "corridor_longitudinal_clearance_median",
+      "value": -1.2580168754907544,
+      "unit": "m",
+      "original_source_sha256": "c9b92f7a403449dcedf06618a4792379f0accc9cf2606e37f6fedce991e4570b",
+      "original_JSON_pointer": "/1/signed_surface_to_positive_face_quantiles_m/3"
+    },
+    {
+      "metric_id": "M116",
+      "case_key": "scene_28_12|Vehicle:11|0062",
+      "metric": "corridor_longitudinal_clearance_p75",
+      "value": 0.3704702691971864,
+      "unit": "m",
+      "original_source_sha256": "c9b92f7a403449dcedf06618a4792379f0accc9cf2606e37f6fedce991e4570b",
+      "original_JSON_pointer": "/1/signed_surface_to_positive_face_quantiles_m/4"
+    },
+    {
+      "metric_id": "M117",
+      "case_key": "scene_28_12|Vehicle:11|0062",
+      "metric": "corridor_longitudinal_clearance_p95",
+      "value": 0.690338038176886,
+      "unit": "m",
+      "original_source_sha256": "c9b92f7a403449dcedf06618a4792379f0accc9cf2606e37f6fedce991e4570b",
+      "original_JSON_pointer": "/1/signed_surface_to_positive_face_quantiles_m/5"
+    },
+    {
+      "metric_id": "M118",
+      "case_key": "scene_28_12|Vehicle:11|0062",
+      "metric": "corridor_longitudinal_clearance_max",
+      "value": 0.840725475290264,
+      "unit": "m",
+      "original_source_sha256": "c9b92f7a403449dcedf06618a4792379f0accc9cf2606e37f6fedce991e4570b",
+      "original_JSON_pointer": "/1/signed_surface_to_positive_face_quantiles_m/6"
+    },
+    {
+      "metric_id": "M119",
+      "case_key": "scene_35_31|Vehicle:97|0188",
+      "metric": "historical_GT_OBB_points",
+      "value": 316,
+      "unit": "count",
+      "original_source_sha256": "acc217de8fcda85e04587c4068c7d4ccbad6711ba4aa6fe8e700e3d11f519dc9",
+      "original_JSON_pointer": "/GT_OBB_points"
+    },
+    {
+      "metric_id": "M120",
+      "case_key": "scene_35_31|Vehicle:97|0188",
+      "metric": "historical_native2D_ray_local_count",
+      "value": 1285,
+      "unit": "count",
+      "original_source_sha256": "acc217de8fcda85e04587c4068c7d4ccbad6711ba4aa6fe8e700e3d11f519dc9",
+      "original_JSON_pointer": "/native2D_ray_local_count"
+    },
+    {
+      "metric_id": "M121",
+      "case_key": "scene_35_31|Vehicle:97|0188",
+      "metric": "historical_native2D_ray_local_outside_GT",
+      "value": 978,
+      "unit": "count",
+      "original_source_sha256": "acc217de8fcda85e04587c4068c7d4ccbad6711ba4aa6fe8e700e3d11f519dc9",
+      "original_JSON_pointer": "/native2D_ray_local_outside_GT"
+    },
+    {
+      "metric_id": "M122",
+      "case_key": "scene_35_31|Vehicle:97|0188",
+      "metric": "projected_rectangle_minus_native2D_center_u",
+      "value": -2.158123274457239,
+      "unit": "px",
+      "original_source_sha256": "acc217de8fcda85e04587c4068c7d4ccbad6711ba4aa6fe8e700e3d11f519dc9",
+      "original_JSON_pointer": "/projected_minus_native_center_uv_px/0"
+    },
+    {
+      "metric_id": "M123",
+      "case_key": "scene_35_31|Vehicle:97|0188",
+      "metric": "projected_rectangle_minus_native2D_center_v",
+      "value": 7.2648361117674085,
+      "unit": "px",
+      "original_source_sha256": "acc217de8fcda85e04587c4068c7d4ccbad6711ba4aa6fe8e700e3d11f519dc9",
+      "original_JSON_pointer": "/projected_minus_native_center_uv_px/1"
+    },
+    {
+      "metric_id": "M124",
+      "case_key": "scene_35_31|Vehicle:97|0188",
+      "metric": "review_GT_OBB_points",
+      "value": 316,
+      "unit": "count",
+      "original_source_sha256": "1c0d833083ef0373be72e0741646feb7b70b3fbbb1e9821b34812e1f8bafb6b4",
+      "original_JSON_pointer": "/2/GT_OBB_points"
+    },
+    {
+      "metric_id": "M125",
+      "case_key": "scene_35_31|Vehicle:97|0188",
+      "metric": "review_projection_delta_u",
+      "value": -2.1581232744570116,
+      "unit": "px",
+      "original_source_sha256": "1c0d833083ef0373be72e0741646feb7b70b3fbbb1e9821b34812e1f8bafb6b4",
+      "original_JSON_pointer": "/2/projected_minus_native_center_uv_px/0"
+    },
+    {
+      "metric_id": "M126",
+      "case_key": "scene_35_31|Vehicle:97|0188",
+      "metric": "review_projection_delta_v",
+      "value": 7.264836111767522,
+      "unit": "px",
+      "original_source_sha256": "1c0d833083ef0373be72e0741646feb7b70b3fbbb1e9821b34812e1f8bafb6b4",
+      "original_JSON_pointer": "/2/projected_minus_native_center_uv_px/1"
+    },
+    {
+      "metric_id": "M127",
+      "case_key": "scene_42_8|Vehicle:87|0178",
+      "metric": "historical_GT_OBB_points",
+      "value": 144,
+      "unit": "count",
+      "original_source_sha256": "6f3cdb90657b4a5b842d56ad74a555cbb13839bd87622825c7615ea62c80cb1f",
+      "original_JSON_pointer": "/GT_OBB_points"
+    },
+    {
+      "metric_id": "M128",
+      "case_key": "scene_42_8|Vehicle:87|0178",
+      "metric": "historical_native2D_ray_local_count",
+      "value": 792,
+      "unit": "count",
+      "original_source_sha256": "6f3cdb90657b4a5b842d56ad74a555cbb13839bd87622825c7615ea62c80cb1f",
+      "original_JSON_pointer": "/native2D_ray_local_count"
+    },
+    {
+      "metric_id": "M129",
+      "case_key": "scene_42_8|Vehicle:87|0178",
+      "metric": "historical_native2D_ray_local_outside_GT",
+      "value": 648,
+      "unit": "count",
+      "original_source_sha256": "6f3cdb90657b4a5b842d56ad74a555cbb13839bd87622825c7615ea62c80cb1f",
+      "original_JSON_pointer": "/native2D_ray_local_outside_GT"
+    },
+    {
+      "metric_id": "M130",
+      "case_key": "scene_42_8|Vehicle:87|0178",
+      "metric": "projected_rectangle_minus_native2D_center_u",
+      "value": -19.9413299492644,
+      "unit": "px",
+      "original_source_sha256": "6f3cdb90657b4a5b842d56ad74a555cbb13839bd87622825c7615ea62c80cb1f",
+      "original_JSON_pointer": "/projected_minus_native_center_uv_px/0"
+    },
+    {
+      "metric_id": "M131",
+      "case_key": "scene_42_8|Vehicle:87|0178",
+      "metric": "projected_rectangle_minus_native2D_center_v",
+      "value": 5.770924093095232,
+      "unit": "px",
+      "original_source_sha256": "6f3cdb90657b4a5b842d56ad74a555cbb13839bd87622825c7615ea62c80cb1f",
+      "original_JSON_pointer": "/projected_minus_native_center_uv_px/1"
+    },
+    {
+      "metric_id": "M132",
+      "case_key": "scene_42_8|Vehicle:87|0178",
+      "metric": "review_GT_OBB_points",
+      "value": 144,
+      "unit": "count",
+      "original_source_sha256": "1c0d833083ef0373be72e0741646feb7b70b3fbbb1e9821b34812e1f8bafb6b4",
+      "original_JSON_pointer": "/3/GT_OBB_points"
+    },
+    {
+      "metric_id": "M133",
+      "case_key": "scene_42_8|Vehicle:87|0178",
+      "metric": "review_projection_delta_u",
+      "value": -19.941329949264855,
+      "unit": "px",
+      "original_source_sha256": "1c0d833083ef0373be72e0741646feb7b70b3fbbb1e9821b34812e1f8bafb6b4",
+      "original_JSON_pointer": "/3/projected_minus_native_center_uv_px/0"
+    },
+    {
+      "metric_id": "M134",
+      "case_key": "scene_42_8|Vehicle:87|0178",
+      "metric": "review_projection_delta_v",
+      "value": 5.770924093095232,
+      "unit": "px",
+      "original_source_sha256": "1c0d833083ef0373be72e0741646feb7b70b3fbbb1e9821b34812e1f8bafb6b4",
+      "original_JSON_pointer": "/3/projected_minus_native_center_uv_px/1"
+    },
+    {
+      "metric_id": "M135",
+      "case_key": "scene_28_9|Vehicle:6|0285",
+      "metric": "historical_GT_OBB_points",
+      "value": 0,
+      "unit": "count",
+      "original_source_sha256": "1412af4a4f55a079b6bec89200d8aea152ff7847928281cc0ddd7e7113bef9df",
+      "original_JSON_pointer": "/GT_OBB_points"
+    },
+    {
+      "metric_id": "M136",
+      "case_key": "scene_28_9|Vehicle:6|0285",
+      "metric": "historical_native2D_ray_local_count",
+      "value": 27,
+      "unit": "count",
+      "original_source_sha256": "1412af4a4f55a079b6bec89200d8aea152ff7847928281cc0ddd7e7113bef9df",
+      "original_JSON_pointer": "/native2D_ray_local_count"
+    },
+    {
+      "metric_id": "M137",
+      "case_key": "scene_28_9|Vehicle:6|0285",
+      "metric": "historical_native2D_ray_local_outside_GT",
+      "value": 27,
+      "unit": "count",
+      "original_source_sha256": "1412af4a4f55a079b6bec89200d8aea152ff7847928281cc0ddd7e7113bef9df",
+      "original_JSON_pointer": "/native2D_ray_local_outside_GT"
+    },
+    {
+      "metric_id": "M138",
+      "case_key": "scene_28_9|Vehicle:6|0285",
+      "metric": "projected_rectangle_minus_native2D_center_u",
+      "value": -18.414623957485674,
+      "unit": "px",
+      "original_source_sha256": "1412af4a4f55a079b6bec89200d8aea152ff7847928281cc0ddd7e7113bef9df",
+      "original_JSON_pointer": "/projected_minus_native_center_uv_px/0"
+    },
+    {
+      "metric_id": "M139",
+      "case_key": "scene_28_9|Vehicle:6|0285",
+      "metric": "projected_rectangle_minus_native2D_center_v",
+      "value": 2.8070040142796415,
+      "unit": "px",
+      "original_source_sha256": "1412af4a4f55a079b6bec89200d8aea152ff7847928281cc0ddd7e7113bef9df",
+      "original_JSON_pointer": "/projected_minus_native_center_uv_px/1"
+    },
+    {
+      "metric_id": "M140",
+      "case_key": "scene_28_9|Vehicle:6|0324",
+      "metric": "historical_GT_OBB_points",
+      "value": 5,
+      "unit": "count",
+      "original_source_sha256": "0394c4e57ccca672ff5c602d3a597c2342e428802e79804d931e0a67620d6dd9",
+      "original_JSON_pointer": "/GT_OBB_points"
+    },
+    {
+      "metric_id": "M141",
+      "case_key": "scene_28_9|Vehicle:6|0324",
+      "metric": "historical_native2D_ray_local_count",
+      "value": 2,
+      "unit": "count",
+      "original_source_sha256": "0394c4e57ccca672ff5c602d3a597c2342e428802e79804d931e0a67620d6dd9",
+      "original_JSON_pointer": "/native2D_ray_local_count"
+    },
+    {
+      "metric_id": "M142",
+      "case_key": "scene_28_9|Vehicle:6|0324",
+      "metric": "historical_native2D_ray_local_outside_GT",
+      "value": 0,
+      "unit": "count",
+      "original_source_sha256": "0394c4e57ccca672ff5c602d3a597c2342e428802e79804d931e0a67620d6dd9",
+      "original_JSON_pointer": "/native2D_ray_local_outside_GT"
+    },
+    {
+      "metric_id": "M143",
+      "case_key": "scene_28_9|Vehicle:6|0324",
+      "metric": "projected_rectangle_minus_native2D_center_u",
+      "value": 7.956814045043302,
+      "unit": "px",
+      "original_source_sha256": "0394c4e57ccca672ff5c602d3a597c2342e428802e79804d931e0a67620d6dd9",
+      "original_JSON_pointer": "/projected_minus_native_center_uv_px/0"
+    },
+    {
+      "metric_id": "M144",
+      "case_key": "scene_28_9|Vehicle:6|0324",
+      "metric": "projected_rectangle_minus_native2D_center_v",
+      "value": 6.947922065408193,
+      "unit": "px",
+      "original_source_sha256": "0394c4e57ccca672ff5c602d3a597c2342e428802e79804d931e0a67620d6dd9",
+      "original_JSON_pointer": "/projected_minus_native_center_uv_px/1"
+    },
+    {
+      "metric_id": "M145",
+      "case_key": "scene_28_9|Vehicle:8|0253",
+      "metric": "historical_GT_OBB_points",
+      "value": 17,
+      "unit": "count",
+      "original_source_sha256": "2b2f5e617ab25b9a04f06a0ad7b5a229c9ad4544775502fcec9de17db7663e68",
+      "original_JSON_pointer": "/GT_OBB_points"
+    },
+    {
+      "metric_id": "M146",
+      "case_key": "scene_28_9|Vehicle:8|0253",
+      "metric": "historical_native2D_ray_local_count",
+      "value": 7,
+      "unit": "count",
+      "original_source_sha256": "2b2f5e617ab25b9a04f06a0ad7b5a229c9ad4544775502fcec9de17db7663e68",
+      "original_JSON_pointer": "/native2D_ray_local_count"
+    },
+    {
+      "metric_id": "M147",
+      "case_key": "scene_28_9|Vehicle:8|0253",
+      "metric": "historical_native2D_ray_local_outside_GT",
+      "value": 7,
+      "unit": "count",
+      "original_source_sha256": "2b2f5e617ab25b9a04f06a0ad7b5a229c9ad4544775502fcec9de17db7663e68",
+      "original_JSON_pointer": "/native2D_ray_local_outside_GT"
+    },
+    {
+      "metric_id": "M148",
+      "case_key": "scene_28_9|Vehicle:8|0253",
+      "metric": "projected_rectangle_minus_native2D_center_u",
+      "value": -12.113963876745402,
+      "unit": "px",
+      "original_source_sha256": "2b2f5e617ab25b9a04f06a0ad7b5a229c9ad4544775502fcec9de17db7663e68",
+      "original_JSON_pointer": "/projected_minus_native_center_uv_px/0"
+    },
+    {
+      "metric_id": "M149",
+      "case_key": "scene_28_9|Vehicle:8|0253",
+      "metric": "projected_rectangle_minus_native2D_center_v",
+      "value": 8.810706216759968,
+      "unit": "px",
+      "original_source_sha256": "2b2f5e617ab25b9a04f06a0ad7b5a229c9ad4544775502fcec9de17db7663e68",
+      "original_JSON_pointer": "/projected_minus_native_center_uv_px/1"
+    },
+    {
+      "metric_id": "M150",
+      "case_key": "scene_28_9|Vehicle:8|0340",
+      "metric": "historical_GT_OBB_points",
+      "value": 0,
+      "unit": "count",
+      "original_source_sha256": "745a3bcb6f7d2eb8a251f110610bded8f44bd3f95585da28648ab1ee51ee1c7f",
+      "original_JSON_pointer": "/GT_OBB_points"
+    },
+    {
+      "metric_id": "M151",
+      "case_key": "scene_28_9|Vehicle:8|0340",
+      "metric": "historical_native2D_ray_local_count",
+      "value": 0,
+      "unit": "count",
+      "original_source_sha256": "745a3bcb6f7d2eb8a251f110610bded8f44bd3f95585da28648ab1ee51ee1c7f",
+      "original_JSON_pointer": "/native2D_ray_local_count"
+    },
+    {
+      "metric_id": "M152",
+      "case_key": "scene_28_9|Vehicle:8|0340",
+      "metric": "historical_native2D_ray_local_outside_GT",
+      "value": 0,
+      "unit": "count",
+      "original_source_sha256": "745a3bcb6f7d2eb8a251f110610bded8f44bd3f95585da28648ab1ee51ee1c7f",
+      "original_JSON_pointer": "/native2D_ray_local_outside_GT"
+    },
+    {
+      "metric_id": "M153",
+      "case_key": "scene_28_9|Vehicle:8|0340",
+      "metric": "projected_rectangle_minus_native2D_center_u",
+      "value": 12.045402161886273,
+      "unit": "px",
+      "original_source_sha256": "745a3bcb6f7d2eb8a251f110610bded8f44bd3f95585da28648ab1ee51ee1c7f",
+      "original_JSON_pointer": "/projected_minus_native_center_uv_px/0"
+    },
+    {
+      "metric_id": "M154",
+      "case_key": "scene_28_9|Vehicle:8|0340",
+      "metric": "projected_rectangle_minus_native2D_center_v",
+      "value": 3.592020869533542,
+      "unit": "px",
+      "original_source_sha256": "745a3bcb6f7d2eb8a251f110610bded8f44bd3f95585da28648ab1ee51ee1c7f",
+      "original_JSON_pointer": "/projected_minus_native_center_uv_px/1"
+    },
+    {
+      "metric_id": "M155",
+      "case_key": "scene_28_12|Vehicle:9|0086",
+      "metric": "historical_GT_OBB_points",
+      "value": 0,
+      "unit": "count",
+      "original_source_sha256": "695663f6d1404b58a0dad7baa75d57c2736b78ab76c1799253139dc3d69f5182",
+      "original_JSON_pointer": "/GT_OBB_points"
+    },
+    {
+      "metric_id": "M156",
+      "case_key": "scene_28_12|Vehicle:9|0086",
+      "metric": "historical_native2D_ray_local_count",
+      "value": 12,
+      "unit": "count",
+      "original_source_sha256": "695663f6d1404b58a0dad7baa75d57c2736b78ab76c1799253139dc3d69f5182",
+      "original_JSON_pointer": "/native2D_ray_local_count"
+    },
+    {
+      "metric_id": "M157",
+      "case_key": "scene_28_12|Vehicle:9|0086",
+      "metric": "historical_native2D_ray_local_outside_GT",
+      "value": 12,
+      "unit": "count",
+      "original_source_sha256": "695663f6d1404b58a0dad7baa75d57c2736b78ab76c1799253139dc3d69f5182",
+      "original_JSON_pointer": "/native2D_ray_local_outside_GT"
+    },
+    {
+      "metric_id": "M158",
+      "case_key": "scene_28_12|Vehicle:9|0086",
+      "metric": "projected_rectangle_minus_native2D_center_u",
+      "value": -19.128559849032854,
+      "unit": "px",
+      "original_source_sha256": "695663f6d1404b58a0dad7baa75d57c2736b78ab76c1799253139dc3d69f5182",
+      "original_JSON_pointer": "/projected_minus_native_center_uv_px/0"
+    },
+    {
+      "metric_id": "M159",
+      "case_key": "scene_28_12|Vehicle:9|0086",
+      "metric": "projected_rectangle_minus_native2D_center_v",
+      "value": -12.900110290976528,
+      "unit": "px",
+      "original_source_sha256": "695663f6d1404b58a0dad7baa75d57c2736b78ab76c1799253139dc3d69f5182",
+      "original_JSON_pointer": "/projected_minus_native_center_uv_px/1"
+    },
+    {
+      "metric_id": "M160",
+      "case_key": "scene_28_12|Vehicle:9|0126",
+      "metric": "historical_GT_OBB_points",
+      "value": 6,
+      "unit": "count",
+      "original_source_sha256": "62bc1e816e12cd5d178aa97ac9dd4e381fe11891c3888725b0590ba6303fd6b3",
+      "original_JSON_pointer": "/GT_OBB_points"
+    },
+    {
+      "metric_id": "M161",
+      "case_key": "scene_28_12|Vehicle:9|0126",
+      "metric": "historical_native2D_ray_local_count",
+      "value": 6,
+      "unit": "count",
+      "original_source_sha256": "62bc1e816e12cd5d178aa97ac9dd4e381fe11891c3888725b0590ba6303fd6b3",
+      "original_JSON_pointer": "/native2D_ray_local_count"
+    },
+    {
+      "metric_id": "M162",
+      "case_key": "scene_28_12|Vehicle:9|0126",
+      "metric": "historical_native2D_ray_local_outside_GT",
+      "value": 0,
+      "unit": "count",
+      "original_source_sha256": "62bc1e816e12cd5d178aa97ac9dd4e381fe11891c3888725b0590ba6303fd6b3",
+      "original_JSON_pointer": "/native2D_ray_local_outside_GT"
+    },
+    {
+      "metric_id": "M163",
+      "case_key": "scene_28_12|Vehicle:9|0126",
+      "metric": "projected_rectangle_minus_native2D_center_u",
+      "value": 7.376170356581042,
+      "unit": "px",
+      "original_source_sha256": "62bc1e816e12cd5d178aa97ac9dd4e381fe11891c3888725b0590ba6303fd6b3",
+      "original_JSON_pointer": "/projected_minus_native_center_uv_px/0"
+    },
+    {
+      "metric_id": "M164",
+      "case_key": "scene_28_12|Vehicle:9|0126",
+      "metric": "projected_rectangle_minus_native2D_center_v",
+      "value": 1.6095694693245264,
+      "unit": "px",
+      "original_source_sha256": "62bc1e816e12cd5d178aa97ac9dd4e381fe11891c3888725b0590ba6303fd6b3",
+      "original_JSON_pointer": "/projected_minus_native_center_uv_px/1"
+    },
+    {
+      "metric_id": "M165",
+      "case_key": "scene_28_12|Vehicle:11|0100",
+      "metric": "historical_GT_OBB_points",
+      "value": 5,
+      "unit": "count",
+      "original_source_sha256": "97c27897989cb34eaad82b66da87271544db58937ac89a1c237c9f85682a54bd",
+      "original_JSON_pointer": "/GT_OBB_points"
+    },
+    {
+      "metric_id": "M166",
+      "case_key": "scene_28_12|Vehicle:11|0100",
+      "metric": "historical_native2D_ray_local_count",
+      "value": 28,
+      "unit": "count",
+      "original_source_sha256": "97c27897989cb34eaad82b66da87271544db58937ac89a1c237c9f85682a54bd",
+      "original_JSON_pointer": "/native2D_ray_local_count"
+    },
+    {
+      "metric_id": "M167",
+      "case_key": "scene_28_12|Vehicle:11|0100",
+      "metric": "historical_native2D_ray_local_outside_GT",
+      "value": 23,
+      "unit": "count",
+      "original_source_sha256": "97c27897989cb34eaad82b66da87271544db58937ac89a1c237c9f85682a54bd",
+      "original_JSON_pointer": "/native2D_ray_local_outside_GT"
+    },
+    {
+      "metric_id": "M168",
+      "case_key": "scene_28_12|Vehicle:11|0100",
+      "metric": "projected_rectangle_minus_native2D_center_u",
+      "value": -17.10379469017016,
+      "unit": "px",
+      "original_source_sha256": "97c27897989cb34eaad82b66da87271544db58937ac89a1c237c9f85682a54bd",
+      "original_JSON_pointer": "/projected_minus_native_center_uv_px/0"
+    },
+    {
+      "metric_id": "M169",
+      "case_key": "scene_28_12|Vehicle:11|0100",
+      "metric": "projected_rectangle_minus_native2D_center_v",
+      "value": -1.536334528594125,
+      "unit": "px",
+      "original_source_sha256": "97c27897989cb34eaad82b66da87271544db58937ac89a1c237c9f85682a54bd",
+      "original_JSON_pointer": "/projected_minus_native_center_uv_px/1"
+    },
+    {
+      "metric_id": "M170",
+      "case_key": "scene_28_12|Vehicle:11|0062",
+      "metric": "historical_GT_OBB_points",
+      "value": 39,
+      "unit": "count",
+      "original_source_sha256": "603f71c179bfe88496675176e7c9c02111e00f9a6de465df00a90c308625714c",
+      "original_JSON_pointer": "/GT_OBB_points"
+    },
+    {
+      "metric_id": "M171",
+      "case_key": "scene_28_12|Vehicle:11|0062",
+      "metric": "historical_native2D_ray_local_count",
+      "value": 64,
+      "unit": "count",
+      "original_source_sha256": "603f71c179bfe88496675176e7c9c02111e00f9a6de465df00a90c308625714c",
+      "original_JSON_pointer": "/native2D_ray_local_count"
+    },
+    {
+      "metric_id": "M172",
+      "case_key": "scene_28_12|Vehicle:11|0062",
+      "metric": "historical_native2D_ray_local_outside_GT",
+      "value": 25,
+      "unit": "count",
+      "original_source_sha256": "603f71c179bfe88496675176e7c9c02111e00f9a6de465df00a90c308625714c",
+      "original_JSON_pointer": "/native2D_ray_local_outside_GT"
+    },
+    {
+      "metric_id": "M173",
+      "case_key": "scene_28_12|Vehicle:11|0062",
+      "metric": "projected_rectangle_minus_native2D_center_u",
+      "value": -0.660699970298765,
+      "unit": "px",
+      "original_source_sha256": "603f71c179bfe88496675176e7c9c02111e00f9a6de465df00a90c308625714c",
+      "original_JSON_pointer": "/projected_minus_native_center_uv_px/0"
+    },
+    {
+      "metric_id": "M174",
+      "case_key": "scene_28_12|Vehicle:11|0062",
+      "metric": "projected_rectangle_minus_native2D_center_v",
+      "value": 0.7137005865151878,
+      "unit": "px",
+      "original_source_sha256": "603f71c179bfe88496675176e7c9c02111e00f9a6de465df00a90c308625714c",
+      "original_JSON_pointer": "/projected_minus_native_center_uv_px/1"
+    },
+    {
+      "metric_id": "M175",
+      "case_key": "scene_35_31|Vehicle:97|0129",
+      "metric": "historical_GT_OBB_points",
+      "value": 16,
+      "unit": "count",
+      "original_source_sha256": "109aee37228a4593b7077109f4f5309421f910b9583605ad610d755018e34d02",
+      "original_JSON_pointer": "/GT_OBB_points"
+    },
+    {
+      "metric_id": "M176",
+      "case_key": "scene_35_31|Vehicle:97|0129",
+      "metric": "historical_native2D_ray_local_count",
+      "value": 24,
+      "unit": "count",
+      "original_source_sha256": "109aee37228a4593b7077109f4f5309421f910b9583605ad610d755018e34d02",
+      "original_JSON_pointer": "/native2D_ray_local_count"
+    },
+    {
+      "metric_id": "M177",
+      "case_key": "scene_35_31|Vehicle:97|0129",
+      "metric": "historical_native2D_ray_local_outside_GT",
+      "value": 8,
+      "unit": "count",
+      "original_source_sha256": "109aee37228a4593b7077109f4f5309421f910b9583605ad610d755018e34d02",
+      "original_JSON_pointer": "/native2D_ray_local_outside_GT"
+    },
+    {
+      "metric_id": "M178",
+      "case_key": "scene_35_31|Vehicle:97|0129",
+      "metric": "projected_rectangle_minus_native2D_center_u",
+      "value": 11.977020312377135,
+      "unit": "px",
+      "original_source_sha256": "109aee37228a4593b7077109f4f5309421f910b9583605ad610d755018e34d02",
+      "original_JSON_pointer": "/projected_minus_native_center_uv_px/0"
+    },
+    {
+      "metric_id": "M179",
+      "case_key": "scene_35_31|Vehicle:97|0129",
+      "metric": "projected_rectangle_minus_native2D_center_v",
+      "value": 7.117630483306243,
+      "unit": "px",
+      "original_source_sha256": "109aee37228a4593b7077109f4f5309421f910b9583605ad610d755018e34d02",
+      "original_JSON_pointer": "/projected_minus_native_center_uv_px/1"
+    },
+    {
+      "metric_id": "M180",
+      "case_key": "scene_36_39|RoadObstruction:5|0090",
+      "metric": "review_GT_OBB_points",
+      "value": 0,
+      "unit": "count",
+      "original_source_sha256": "1c0d833083ef0373be72e0741646feb7b70b3fbbb1e9821b34812e1f8bafb6b4",
+      "original_JSON_pointer": "/0/GT_OBB_points"
+    },
+    {
+      "metric_id": "M181",
+      "case_key": "scene_36_39|RoadObstruction:5|0090",
+      "metric": "review_projection_delta_u",
+      "value": 32.59277939341597,
+      "unit": "px",
+      "original_source_sha256": "1c0d833083ef0373be72e0741646feb7b70b3fbbb1e9821b34812e1f8bafb6b4",
+      "original_JSON_pointer": "/0/projected_minus_native_center_uv_px/0"
+    },
+    {
+      "metric_id": "M182",
+      "case_key": "scene_36_39|RoadObstruction:5|0090",
+      "metric": "review_projection_delta_v",
+      "value": -0.7969792047706505,
+      "unit": "px",
+      "original_source_sha256": "1c0d833083ef0373be72e0741646feb7b70b3fbbb1e9821b34812e1f8bafb6b4",
+      "original_JSON_pointer": "/0/projected_minus_native_center_uv_px/1"
+    },
+    {
+      "metric_id": "M183",
+      "case_key": "scene_36_39|RoadObstruction:5|0090",
+      "metric": "fixed11_count",
+      "value": 11,
+      "unit": "count",
+      "original_source_sha256": "273edb7e963d0e8217959c241756ca0b7689ff49d52bdf7230b08ef6c0421be7",
+      "original_JSON_pointer": "/selected_left_ray_returns/count"
+    },
+    {
+      "metric_id": "M184",
+      "case_key": "scene_36_39|RoadObstruction:5|0090",
+      "metric": "fixed11_front_native2D_inside",
+      "value": 2,
+      "unit": "count",
+      "original_source_sha256": "273edb7e963d0e8217959c241756ca0b7689ff49d52bdf7230b08ef6c0421be7",
+      "original_JSON_pointer": "/selected_left_ray_returns/front_native2D_inside"
+    },
+    {
+      "metric_id": "M185",
+      "case_key": "scene_36_39|RoadObstruction:5|0090",
+      "metric": "fixed11_front_native2D_right",
+      "value": 9,
+      "unit": "count",
+      "original_source_sha256": "273edb7e963d0e8217959c241756ca0b7689ff49d52bdf7230b08ef6c0421be7",
+      "original_JSON_pointer": "/selected_left_ray_returns/front_native2D_right"
+    },
+    {
+      "metric_id": "M186",
+      "case_key": "scene_36_39|RoadObstruction:5|0090",
+      "metric": "fixed11_extent_x",
+      "value": 0.5526123046875,
+      "unit": "m",
+      "original_source_sha256": "273edb7e963d0e8217959c241756ca0b7689ff49d52bdf7230b08ef6c0421be7",
+      "original_JSON_pointer": "/selected_left_ray_returns/XYZ_extent_m/0"
+    },
+    {
+      "metric_id": "M187",
+      "case_key": "scene_36_39|RoadObstruction:5|0090",
+      "metric": "fixed11_extent_y",
+      "value": 0.383209228515625,
+      "unit": "m",
+      "original_source_sha256": "273edb7e963d0e8217959c241756ca0b7689ff49d52bdf7230b08ef6c0421be7",
+      "original_JSON_pointer": "/selected_left_ray_returns/XYZ_extent_m/1"
+    },
+    {
+      "metric_id": "M188",
+      "case_key": "scene_36_39|RoadObstruction:5|0090",
+      "metric": "fixed11_extent_z",
+      "value": 0.509702205657959,
+      "unit": "m",
+      "original_source_sha256": "273edb7e963d0e8217959c241756ca0b7689ff49d52bdf7230b08ef6c0421be7",
+      "original_JSON_pointer": "/selected_left_ray_returns/XYZ_extent_m/2"
+    },
+    {
+      "metric_id": "M189",
+      "case_key": "scene_36_39|RoadObstruction:5|0090",
+      "metric": "fixed11_solid_gap_min",
+      "value": 0.1963650942469815,
+      "unit": "m",
+      "original_source_sha256": "273edb7e963d0e8217959c241756ca0b7689ff49d52bdf7230b08ef6c0421be7",
+      "original_JSON_pointer": "/selected_left_ray_returns/GT_solid_gap_minmax_m/0"
+    },
+    {
+      "metric_id": "M190",
+      "case_key": "scene_36_39|RoadObstruction:5|0090",
+      "metric": "fixed11_solid_gap_max",
+      "value": 0.7438260885592756,
+      "unit": "m",
+      "original_source_sha256": "273edb7e963d0e8217959c241756ca0b7689ff49d52bdf7230b08ef6c0421be7",
+      "original_JSON_pointer": "/selected_left_ray_returns/GT_solid_gap_minmax_m/1"
+    },
+    {
+      "metric_id": "M191",
+      "case_key": "scene_28_9|RoadObstruction:22|0346",
+      "metric": "review_GT_OBB_points",
+      "value": 0,
+      "unit": "count",
+      "original_source_sha256": "1c0d833083ef0373be72e0741646feb7b70b3fbbb1e9821b34812e1f8bafb6b4",
+      "original_JSON_pointer": "/1/GT_OBB_points"
+    },
+    {
+      "metric_id": "M192",
+      "case_key": "scene_28_9|RoadObstruction:22|0346",
+      "metric": "review_projection_delta_u",
+      "value": 17.61871790357077,
+      "unit": "px",
+      "original_source_sha256": "1c0d833083ef0373be72e0741646feb7b70b3fbbb1e9821b34812e1f8bafb6b4",
+      "original_JSON_pointer": "/1/projected_minus_native_center_uv_px/0"
+    },
+    {
+      "metric_id": "M193",
+      "case_key": "scene_28_9|RoadObstruction:22|0346",
+      "metric": "review_projection_delta_v",
+      "value": 2.4885864827207342,
+      "unit": "px",
+      "original_source_sha256": "1c0d833083ef0373be72e0741646feb7b70b3fbbb1e9821b34812e1f8bafb6b4",
+      "original_JSON_pointer": "/1/projected_minus_native_center_uv_px/1"
+    },
+    {
+      "metric_id": "M194",
+      "case_key": "scene_28_9|RoadObstruction:18|0107",
+      "metric": "review_GT_OBB_points",
+      "value": 0,
+      "unit": "count",
+      "original_source_sha256": "1c0d833083ef0373be72e0741646feb7b70b3fbbb1e9821b34812e1f8bafb6b4",
+      "original_JSON_pointer": "/4/GT_OBB_points"
+    },
+    {
+      "metric_id": "M195",
+      "case_key": "scene_28_9|RoadObstruction:18|0107",
+      "metric": "review_projection_delta_u",
+      "value": 8.725135399284682,
+      "unit": "px",
+      "original_source_sha256": "1c0d833083ef0373be72e0741646feb7b70b3fbbb1e9821b34812e1f8bafb6b4",
+      "original_JSON_pointer": "/4/projected_minus_native_center_uv_px/0"
+    },
+    {
+      "metric_id": "M196",
+      "case_key": "scene_28_9|RoadObstruction:18|0107",
+      "metric": "review_projection_delta_v",
+      "value": 1.0988174990673087,
+      "unit": "px",
+      "original_source_sha256": "1c0d833083ef0373be72e0741646feb7b70b3fbbb1e9821b34812e1f8bafb6b4",
+      "original_JSON_pointer": "/4/projected_minus_native_center_uv_px/1"
+    },
+    {
+      "metric_id": "M197",
+      "case_key": "scene_36_39|RoadObstruction:7|0057",
+      "metric": "review_GT_OBB_points",
+      "value": 0,
+      "unit": "count",
+      "original_source_sha256": "1c0d833083ef0373be72e0741646feb7b70b3fbbb1e9821b34812e1f8bafb6b4",
+      "original_JSON_pointer": "/5/GT_OBB_points"
+    },
+    {
+      "metric_id": "M198",
+      "case_key": "scene_36_39|RoadObstruction:7|0057",
+      "metric": "review_projection_delta_u",
+      "value": 8.59624562519457,
+      "unit": "px",
+      "original_source_sha256": "1c0d833083ef0373be72e0741646feb7b70b3fbbb1e9821b34812e1f8bafb6b4",
+      "original_JSON_pointer": "/5/projected_minus_native_center_uv_px/0"
+    },
+    {
+      "metric_id": "M199",
+      "case_key": "scene_36_39|RoadObstruction:7|0057",
+      "metric": "review_projection_delta_v",
+      "value": 3.5387377017491417,
+      "unit": "px",
+      "original_source_sha256": "1c0d833083ef0373be72e0741646feb7b70b3fbbb1e9821b34812e1f8bafb6b4",
+      "original_JSON_pointer": "/5/projected_minus_native_center_uv_px/1"
+    }
+  ]
+}

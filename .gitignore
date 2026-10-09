@@ -1,0 +1,16 @@
+# Released source files stay outside the public repository.
+*.zip
+*.bin
+*.jpg
+*.jpeg
+*.JPG
+*.JPEG
+original/
+raw_data/
+source_data/
+.env
+*.pem
+*.key
+__pycache__/
+*.pyc
+.DS_Store
